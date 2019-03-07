@@ -1,0 +1,60 @@
+.thumbnails  {
+    background: #FAFAFA;
+}
+
+.thumbnails img {
+    background: #FAFAFA;
+    height: 80px;
+    border: 4px solid #555;
+    padding: 1px;
+    margin: 0 10px 10px 0;
+}
+
+.thumbnails img:hover {
+    background: #FAFAFA;
+    border: 4px solid #00ccff;
+    cursor:pointer;
+}
+
+.preview {
+    background: #FAFAFA;
+}
+
+.preview img {
+    background: #FAFAFA;
+    padding: 1px;
+    width: 675px;
+    height: 400px;
+}
+
+section {
+    height: 730px;
+}
+
+.gallery {
+    margin: 20px;
+    background: #FAFAFA;
+
+}
+
+h3 {
+    color: #CC0033;
+}
+
+footer {
+    position: relative;
+    width: 100%;
+    text-align: center;
+    font-size: 11px;
+    color: black;
+    letter-spacing: 0;
+    bottom: -100px;
+    left: 0;
+}
+a.nav-link-selected {
+    display: inline-block;
+    padding: 0 10px;
+    overflow: hidden;
+    color: #CC0033;
+    white-space: nowrap;
+}
